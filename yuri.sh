@@ -10,9 +10,6 @@ sudo dnf groupupdate core -y
 sudo dnf groupupdate multimedia --setop="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin -y
 sudo dnf groupupdate sound-and-video -y
 sudo dnf install dnf-plugins-core -y
-sudo dnf install -y libdvdcss
-sudo dnf install -y lame\* --exclude=lame-devel
-sudo dnf group upgrade -y --with-optional Multimedia
 # Installing Nvidia Driver Akmod-Nvidia
 sudo dnf install akmod-nvidia -y
 sudo dnf install xorg-x11-drv-nvidia-cuda -y
