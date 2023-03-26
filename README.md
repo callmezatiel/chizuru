@@ -21,6 +21,18 @@ Dependencies
 
 * "Fedora Distro 35/36/37/38/39"
 
+
+| Dependencies| Description |
+| ------ | ------ |
+| git |  Git command line utility used to target an existing repository for the purpose of cloning or copying it |
+
+How to install git?
+
+``` 
+sudo dnf install git -y 
+
+```
+
 ### Some Features
 
 - [x]  Additional Proprietary Software
