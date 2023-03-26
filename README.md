@@ -1,7 +1,5 @@
 # Yuri
-Yuri (ユーリ, Yūri)
-
-Enabling the RPM Fusion / Third party / NonFree / Extras 
+Yuri (ユーリ, Yūri) Enabling the RPM Fusion / Third party / NonFree / Extras 
 
 Prerequisites
 You have internet access
