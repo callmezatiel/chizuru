@@ -46,4 +46,9 @@ Third-party software sources not officially affiliated with or endorsed by the F
 ### Call for Contributions⚠️
 
 
-[![Fedora-38-2023-03-26-08-08-26.png](https://i.postimg.cc/j2rRKKKj/Fedora-38-2023-03-26-08-08-26.png)]
+
+[![Alt text](https://i.postimg.cc/j2rRKKKj/Fedora-38-2023-03-26-08-08-26.png)]
+
+
+### Pull Request Welcomed
+https://github.com/callmezatiel/yuri/issues
