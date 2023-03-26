@@ -11,7 +11,7 @@ Dependencies
 ### Some Features
 
 - [x]  Additional proprietary software
-
+- [x]  Full Nvidia Support
 
 # Install
 
