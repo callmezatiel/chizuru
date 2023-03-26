@@ -38,4 +38,4 @@ sudo fwupdmgr get-updates -y
 sudo fwupdmgr update -y
 
 # Increase DNF speed
-echo -e "# Added for speed: \nfastestmirror=True\nmax_parallel_downloads=5\nkeepcache=True" Red Hat Enterprise Linux| sudo tee -a /etc/dnf/dnf.conf
+echo -e "# Added for speed: \nfastestmirror=True\nmax_parallel_downloads=5\nkeepcache=True" | sudo tee -a /etc/dnf/dnf.conf
