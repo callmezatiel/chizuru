@@ -8,7 +8,10 @@ sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfre
 # Installing plugins for playing movies and music
 sudo dnf groupupdate core -y 
 sudo dnf groupupdate multimedia --setop="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin -y
-sudo dnf groupupdate sound-and-video  -y
+sudo dnf groupupdate sound-and-video -y
+sudo dnf install dnf-plugins-core -y
+sudo dnf install akmod-nvidia -y
+sudo dnf install xorg-x11-drv-nvidia-cuda -y
 # Add flathub repo
 sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo 
 # Increase DNF speed
