@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
- <a href="https://github.com/callmezatiel"><img src="https://i.postimg.cc/QNBLhDgb/yuri2.png" width=250 height=250 
+ <a href="https://github.com/callmezatiel"><img src="https://i.postimg.cc/QdfKQcBh/yuri-icon.png" width=250 height=250 
   <br>
 </h1>
 
