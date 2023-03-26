@@ -13,6 +13,7 @@ sudo dnf install dnf-plugins-core -y
 sudo dnf install -y libdvdcss
 sudo dnf install -y gstreamer1-plugins-{bad-\*,good-\*,ugly-\*,base} gstreamer1-libav --exclude=gstreamer1-plugins-bad-free-devel ffmpeg gstreamer-ffmpeg
 sudo dnf install -y lame\* --exclude=lame-devel
+sudo dnf group upgrade -y --with-optional Multimedia
 sudo dnf install akmod-nvidia -y
 sudo dnf install xorg-x11-drv-nvidia-cuda -y
 # Add flathub repo
