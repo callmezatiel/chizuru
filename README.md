@@ -13,9 +13,6 @@ Yuri (ユーリ, Yūri) Enabling the RPM Fusion / Third party / NonFree / Extras
 
 RPM Fusion provides software that the Fedora Project or Red Hat doesn't want to ship. That software is provided as precompiled RPMs for all current Fedora versions and current Red Hat Enterprise Linux or clones versions; you can use the RPM Fusion repositories with tools like yum and PackageKit.
 
-Update Firmware
-Updates firmware providing you have hardwar that supports it
-
 
 Prerequisites
 You have internet access
@@ -28,6 +25,7 @@ Dependencies
 
 - [x]  Additional Proprietary Software
 - [x]  Full Nvidia Support
+- [x]  Update Firmware (Updates firmware providing you have hardwar that supports it)
 
 # Install
 
