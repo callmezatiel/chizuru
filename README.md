@@ -1,5 +1,15 @@
+
+
+<h1 align="center">
+  <br>
+ <a href="https://github.com/callmezatiel"><img src="https://i.postimg.cc/QNBLhDgb/yuri2.png" width=250 height=250 
+  <br>
+</h1>
+
+
 # Yuri
 Yuri (ユーリ, Yūri) Enabling the RPM Fusion / Third party / NonFree / Extras 
+
 
 RPM Fusion provides software that the Fedora Project or Red Hat doesn't want to ship. That software is provided as precompiled RPMs for all current Fedora versions and current Red Hat Enterprise Linux or clones versions; you can use the RPM Fusion repositories with tools like yum and PackageKit.
 
