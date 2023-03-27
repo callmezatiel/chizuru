@@ -36,6 +36,7 @@ sudo dnf install git -y
 ### Some Features
 
 - [x]  Additional Proprietary Software
+- [x]  Extra Packages for Enterprise Linux (EPEL)
 - [x]  Full Nvidia Support
 - [x]  Update Firmware (Updates firmware providing you have hardwar that supports it)
 
