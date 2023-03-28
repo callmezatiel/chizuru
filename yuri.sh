@@ -1,5 +1,7 @@
 # Enter your password user when any command confirm request
 set -e
+
+
 # Upgrade
 sudo dnf upgrade -y 
 
@@ -20,6 +22,9 @@ sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub
 cd /tmp/
 wget https://dl.fedoraproject.org/pub/epel/epel-release-latest-9.noarch.rpm
 sudo dnf install ./epel-release-latest-9.noarch.rpm --skip-broken
+
+# Add Preload
+sudo dnf copr enable elxreno/preload -y && sudo dnf install preload -y
 
 # Updating Firmware
 #sudo fwupdmgr get-devices -y 
