@@ -38,6 +38,7 @@ sudo dnf install git -y
 - [x]  Additional Proprietary Software
 - [x]  Extra Packages for Enterprise Linux (EPEL)
 - [x]  Full Nvidia Support
+- [x]  Enable Preload
 - [x]  Update Firmware (Updates firmware providing you have hardwar that supports it)
 
 # Install
