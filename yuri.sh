@@ -1,5 +1,24 @@
 # Enter your password user when any command confirm request
+#!/usr/bin/env sh
 set -e
+
+trap "exit" INT
+
+NC='\033[0m'
+Red='\033[0;31m'          # Red
+Green='\033[0;32m'        # Green
+Yellow='\033[0;33m'       # Yellow
+
+cat << "EOF"
+██╗   ██╗██╗   ██╗██████╗ ██╗
+╚██╗ ██╔╝██║   ██║██╔══██╗██║
+ ╚████╔╝ ██║   ██║██████╔╝██║
+  ╚██╔╝  ██║   ██║██╔══██╗██║
+   ██║   ╚██████╔╝██║  ██║██║
+   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝
+EOF
+
+echo -e "${Yellow}ユーリWelcome To Fusion Dimension${NC}"
 
 
 # Upgrade
