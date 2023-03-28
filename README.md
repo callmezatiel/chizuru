@@ -23,14 +23,13 @@ Dependencies
 
 
 | Dependencies| Description |
-| ------ | ------ |
-| git |  Git command line utility used to target an existing repository for the purpose of cloning or copying it |
+| ----------- | ----------- |
+| git         |  Git command line utility used to target an existing repository for the purpose of cloning or copying it |
 
 How to install git?
 
-``` 
+```
 sudo dnf install git -y 
-
 ```
 
 ### Some Features
@@ -42,17 +41,17 @@ sudo dnf install git -y
 
 # Install
 
-* Open The Terminal .
-* Type the following commands :
+* Open The Terminal.
+* Type the following commands:
 
 ```
-    git clone https://github.com/callmezatiel/yuri
-    cd yuri
-    chmod +x yuri.sh
-    sudo ./yuri.sh 
+git clone https://github.com/callmezatiel/yuri
+cd yuri
+chmod +x yuri.sh
+sudo ./yuri.sh
 ```
 
-## NOTE: If you have problems installing depends on the fedora version, you can try running the script as root to fix the problem.
+## NOTE: If you have installation problems, it may depend on the fedora version, you can try to run the script as root to fix the problem.
 
 Third-party software sources not officially affiliated with or endorsed by the Fedora Project. Use them at your own discretion. Fedora recommends the use of free and open source software and avoidance of software encumbered by patents.
 
@@ -63,5 +62,5 @@ Third-party software sources not officially affiliated with or endorsed by the F
 [![Alt text](https://i.postimg.cc/j2rRKKKj/Fedora-38-2023-03-26-08-08-26.png)]
 
 
-### Pull Request Welcomed
+### Pull Requests are welcome
 https://github.com/callmezatiel/yuri/issues
