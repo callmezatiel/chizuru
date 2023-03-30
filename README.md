@@ -7,7 +7,7 @@
 </h1>
 
 
-# Yuri
+# Chizuru
 Yuri (ユーリ, Yūri) Enabling the RPM Fusion / Third party / NonFree / Extras 
 
 
@@ -47,10 +47,10 @@ sudo dnf install git -y
 * Type the following commands :
 
 ```
-    git clone https://github.com/callmezatiel/yuri
-    cd yuri
-    chmod +x yuri.sh
-    sudo ./yuri.sh 
+    git clone https://github.com/callmezatiel/chizuru
+    cd chizuru
+    chmod +x chizuru.sh
+    sudo ./chizuru.sh 
 ```
 
 ## NOTE: If you have problems installing depends on the fedora version, you can try running the script as root to fix the problem.
