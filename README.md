@@ -19,7 +19,7 @@ You have internet access
 
 Dependencies
 
-* "Fedora Distro 35/36/37/38/39"
+* "Fedora Distro 38/39/40/41"
 
 
 | Dependencies| Description |
@@ -57,12 +57,7 @@ sudo dnf install git -y
 
 Third-party software sources not officially affiliated with or endorsed by the Fedora Project. Use them at your own discretion. Fedora recommends the use of free and open source software and avoidance of software encumbered by patents.
 
-### Call for Contributions⚠️
-
-
-
-[![Alt text](https://i.postimg.cc/j2rRKKKj/Fedora-38-2023-03-26-08-08-26.png)]
-
+#### Call for Contributions⚠️
 
 ### Pull Request Welcomed
-https://github.com/callmezatiel/yuri/issues
+https://github.com/callmezatiel/chizuru/issues
